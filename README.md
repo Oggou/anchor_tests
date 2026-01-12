@@ -24,3 +24,11 @@ The working hypothesis for this anchor is that it **shifts the framing** the mod
 - This repo is **documents only** (no code).
 - No API keys or credentials are intended to be stored here.
 
+## Convert the `.odt` files to `.txt` for GitHub
+
+GitHub can’t render `.odt` files natively. To produce plain-text versions under `text/`:
+
+```bash
+python3 convert_to_text.py
+```
+

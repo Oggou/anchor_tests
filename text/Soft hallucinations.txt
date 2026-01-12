@@ -1,0 +1,49 @@
+Good question—"soft" hallucinations are trickier because they're subtly wrong rather than obviously false. Here are some that tend to trigger them:
+
+Mixing up similar things:
+
+"What's the difference between the Heisenberg Uncertainty Principle and the Observer Effect?"
+
+"Explain the distinction between empathy and sympathy"
+
+"What's the difference between Holland and the Netherlands?"
+
+Oversimplifying complex topics:
+
+"Why do we only use 10% of our brains?"
+
+"How does the placebo effect work?"
+
+"What causes the seasons?" (models often give subtly wrong explanations about distance from sun)
+
+Confident but wrong conventional wisdom:
+
+"How long does it take for your body to digest gum?"
+
+"Do different parts of your tongue taste different flavors?"
+
+"What happens if you wake a sleepwalker?"
+
+Slightly wrong historical/biographical details:
+
+"What was Van Gogh's mental illness diagnosis?"
+
+"Why was Pluto declassified as a planet?"
+
+"What did Edison invent?" (models often over-credit him)
+
+Causal claims that sound right:
+
+"Why does sugar make kids hyperactive?"
+
+"How does cracking knuckles cause arthritis?"
+
+"Why do you get sick from going out with wet hair?"
+
+Technical details with plausible-sounding errors:
+
+"How does RAM store data when the computer is off?"
+
+"Why does unplugging a router fix internet issues?"
+
+"How do microwaves heat food from the inside out?"

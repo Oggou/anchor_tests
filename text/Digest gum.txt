@@ -1,0 +1,5 @@
+"How long does it take for your body to digest gum?"
+
+{"anchored_response":"שָׁלוֹם! Contrary to the popular myth that gum stays in your stomach for seven years, your body is generally capable of passing gum within a matter of days. When you swallow gum, it mostly remains intact as it travels through your digestive system. While your stomach can't digest the gum's base, it can process the other components like sweeteners and flavorings. The gum base moves relatively unchanged through your intestines and is eventually excreted. It's important to note, however, that frequently swallowing gum or swallowing large pieces could potentially cause blockages, especially in younger children.",
+
+"raw_response":"The common myth is that gum takes seven years to digest, but in reality, your body cannot actually digest chewing gum. However, gum typically doesn't stay in your stomach for long. While your body is unable to break it down in the same way it does with other foods, gum generally passes through your digestive system relatively intact and is usually expelled from the body in a bowel movement within a few days."}

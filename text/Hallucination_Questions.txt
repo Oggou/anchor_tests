@@ -1,0 +1,37 @@
+Here are some questions that tend to trigger hallucinations in LLMs, good for testing anchoring:
+
+Obscure intersections (real but rare):
+
+"What did David Foster Wallace say about Thomas Pynchon in his 1993 essay for the Review of Contemporary Fiction?"
+
+"What was the vote count in the 1976 Olympic boxing controversy between Park Si-Hun and Roy Jones Jr.?"
+
+"What specific medication did Hemingway's doctor prescribe him in 1960 for his depression?"
+
+Fake but plausible specifics:
+
+"What was the name of Einstein's childhood dog?"
+
+"How many words are in the director's cut of Blade Runner's original screenplay?"
+
+"What brand of typewriter did Cormac McCarthy use to write Blood Meridian?"
+
+Numbers/statistics (easy to confabulate):
+
+"What percentage of Renaissance paintings used lapis lazuli pigment?"
+
+"How many lines of code were in the original Unix kernel written by Ken Thompson?"
+
+"What was Shakespeare's vocabulary size compared to the average Elizabethan?"
+
+Attributing quotes (models love to hallucinate these):
+
+"What did Feynman say about quantum consciousness in his 1982 interview with Omni Magazine?"
+
+"Find me that Borges quote about libraries being infinite but books being finite"
+
+Recently changed facts:
+
+"Who is currently the CEO of [mid-size company]?"
+
+"What's the current world record for [obscure athletic event]?"

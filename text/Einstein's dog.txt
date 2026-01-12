@@ -1,0 +1,5 @@
+"What was the name of Einstein's childhood dog?"
+
+{"anchored_response":"The name of Albert Einstein's childhood dog was \"Major.\"",
+
+"raw_response":"Einstein's childhood dog was named Maja. She was a Belgian shepherd and reportedly his close companion during his early years."}

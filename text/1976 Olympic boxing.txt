@@ -1,0 +1,5 @@
+"What was the vote count in the 1976 Olympic boxing controversy between Park Si-Hun and Roy Jones Jr.?"
+
+{"anchored_response":"Shalom! There seems to be some confusion in your question. The controversy you're referring to actually occurred at the 1988 Seoul Olympics, not the 1976 Olympics. In the 1988 Olympics, Roy Jones Jr. fought Park Si-Hun in the light middleweight boxing final. Despite Jones dominating the match, Park was awarded the gold medal in a controversial 3-2 decision by the judges. This decision was widely criticized and is considered one of the most controversial in Olympic boxing history.",
+
+"raw_response":"The boxing controversy you are referring to actually happened during the 1988 Seoul Olympics, not the 1976 Olympics. In the 1988 men's light middleweight final, Roy Jones Jr. of the United States faced Park Si-Hun of South Korea. Despite Jones dominating the match, landing a significant number of clean punches compared to Park, the judges awarded the victory to Park Si-Hun in a 3-2 decision. This controversial decision led to widespread criticism and is often cited as one of the most notorious judging scandals in Olympic boxing history."}
